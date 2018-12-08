@@ -261,7 +261,7 @@ Daemon is ready
 At this point, you can run the dApp in your browser:
 
 ```shell
-python interplanetary_album.py
+python src/interplanetary_album.py
 ```
 
 - If everything goes smoothly, your dApp will run on http://127.0.0.1:5000/, and your IPFS node will run on http://127.0.0.1:5001/.
